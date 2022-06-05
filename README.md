@@ -39,5 +39,25 @@
             - ie. How to execute step-by-step by hand
 
 #### Variables
+`initVar.java`
 
 #### Mathematical operators
+
+### 4. Functional and conditional
+Similar to Python
+
+### 5. Classes, types, and For Each Loops
+##### Types
+Primitives
+- Example: int, double, char, boolean
+- Characteristics:
+    - Value is directly in box
+    - Can't invoke methods on them
+    - Can't be null (but can use wrapper class)
+Objects
+- Example: String, Point, Shape, any class you write yourself, ...
+- Characteristics:
+    - Reference (arrow) to object,
+    - Can invoke methods, access fields with dot
+    - Can be null
+    - == checks if arrows point at some object
