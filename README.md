@@ -35,5 +35,9 @@
     - What can these classes do?
     - How would you understand what this code does?
         - Need to know **semantics** of code ie. **meaning** of code
+        - What are code semantics ie. meaning?
+            - ie. How to execute step-by-step by hand
+
 #### Variables
+
 #### Mathematical operators
