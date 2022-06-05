@@ -21,4 +21,19 @@
 - Can use to develop mobile and web apps
 
 ### 3. Variables and Mathematical operators
+#### Shapes: collections of points
+- Shapes (aka polygons) are collections of points
+    - Triangle is a collection of 3 points
+    - Circles and other shapes aren't a finite collection of points
+- How do we construct a shape?
+    - Shapes are constructed by adding one point at a time
+- How do we access points in a shape?
+- What operations/methods can we implement?
 
+#### Semantics
+- Get to know Java classes ie. Shape and point
+    - What can these classes do?
+    - How would you understand what this code does?
+        - Need to know **semantics** of code ie. **meaning** of code
+#### Variables
+#### Mathematical operators
