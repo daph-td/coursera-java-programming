@@ -14,4 +14,6 @@
 - Manipulating CSV file
 - Processing images
 
-
+### 2. Getting started with BlueJ
+#### Why Java?
+- 
