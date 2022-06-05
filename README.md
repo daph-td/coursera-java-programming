@@ -48,16 +48,16 @@ Similar to Python
 
 ### 5. Classes, types, and For Each Loops
 ##### Types
-Primitives
-- Example: int, double, char, boolean
-- Characteristics:
-    - Value is directly in box
-    - Can't invoke methods on them
-    - Can't be null (but can use wrapper class)
-Objects
-- Example: String, Point, Shape, any class you write yourself, ...
-- Characteristics:
-    - Reference (arrow) to object,
-    - Can invoke methods, access fields with dot
-    - Can be null
-    - == checks if arrows point at some object
+- Primitives
+    - Example: int, double, char, boolean
+    - Characteristics:
+        - Value is directly in box
+        - Can't invoke methods on them
+        - Can't be null (but can use wrapper class)
+- Objects
+    - Example: String, Point, Shape, any class you write yourself, ...
+    - Characteristics:
+        - Reference (arrow) to object,
+        - Can invoke methods, access fields with dot
+        - Can be null
+        - == checks if arrows point at some object
