@@ -16,3 +16,9 @@
 
 ### 2. Getting started with BlueJ
 #### Why Java?
+- Popular and widely used
+- Foundation of Android
+- Can use to develop mobile and web apps
+
+### 3. Variables and Mathematical operators
+
