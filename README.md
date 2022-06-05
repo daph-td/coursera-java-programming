@@ -16,4 +16,3 @@
 
 ### 2. Getting started with BlueJ
 #### Why Java?
-- 
