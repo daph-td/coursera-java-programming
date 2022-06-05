@@ -39,7 +39,7 @@
             - ie. How to execute step-by-step by hand
 
 #### Variables
-`initVar.java`
+`/exercises/initVar.java`
 
 #### Mathematical operators
 
