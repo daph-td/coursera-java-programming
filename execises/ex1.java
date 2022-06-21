@@ -3,6 +3,8 @@ public class ex1 {
         System.out.println("Hello \"World\"");
         // this is a single comment
         /* this is a multi-line comment */
+
+        // variables and data types
         char nameChar = 'D';
         String fullName = "Daphne";
         int birthDay = 25;
@@ -17,6 +19,8 @@ public class ex1 {
         String name1 = "Daphne ", name2 = "Alex ", name3 = "Luna ";
         System.out.println(name1 + name2 + name3);
         System.out.println("Start ...");
+
+        // operators 
         System.out.println(9 + 2);
         System.out.println(9 - 2);
         System.out.println(9 * 2);
