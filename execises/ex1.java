@@ -10,6 +10,8 @@ public class ex1 {
         boolean myBool = false;
         String message = fullName + " birthday is " + birthDay;
         System.out.println(message);
+        String name1 = "Daphne ", name2 = "Alex ", name3 = "Luna ";
+        System.out.println(name1 + name2 + name3);
         System.out.println("Start ...");
         System.out.println(9 + 2);
         System.out.println(9 - 2);
