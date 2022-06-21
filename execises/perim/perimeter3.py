@@ -8,12 +8,6 @@ for angle in range(getAngle):
     getCoor = (xPt, yPt)
     p_array.append(getCoor)
 
-# p1 = (-1,3)
-# p2 = (-1,-1)
-# p3 = (4,-1)
-# p4 = (1,3)
-# p_array = [p1, p2, p3, p4]
-
 totalPerim = 0
 prevPt = p_array[-1]
 for p in p_array:
