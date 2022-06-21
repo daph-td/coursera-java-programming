@@ -48,6 +48,12 @@ public class ex1 {
         String txtLen = String.valueOf(txt.length());
         System.out.println("Length of " + txt + " is " + String.valueOf(txt.length()));
         System.out.println("Length of " + txt + " is " + txtLen + " (2)");
+        System.out.println(txt.toUpperCase());
+        System.out.println("Uppercase of Hello is ".concat(txt.toUpperCase()));
+        String letter = "e";
+        System.out.println(txt.indexOf(letter));
+        System.out.println("Index of " + letter + " is " + txt.indexOf(letter));
+
     }
 }
 
