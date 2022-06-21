@@ -1,12 +1,14 @@
 public class ex1 {
     public static void main(String[] args) {
-        System.out.println("\nPRINT AND COMMENTS");
+        System.out.println("\n----------");
+        System.out.println("PRINT AND COMMENTS");
         System.out.println("Hello \"World\"");
         // this is a single comment
         /* this is a multi-line comment */
 
         // variables and data types
-        System.out.println("\nVARIABLES AND DATA TYPES");
+        System.out.println("\n----------");
+        System.out.println("VARIABLES AND DATA TYPES");
         char nameChar = 'D';
         String fullName = "Daphne";
         int birthDay = 25;
@@ -22,8 +24,9 @@ public class ex1 {
         System.out.println(name1 + name2 + name3);
         System.out.println("Start ...");
 
-        // operators 
-        System.out.println("\nOPERATORS");
+        // operators
+        System.out.println("\n----------");
+        System.out.println("OPERATORS");
         int x = 9;
         System.out.println(++x);
         int y = 20;
@@ -37,6 +40,14 @@ public class ex1 {
         System.out.println(9.0 % 2.0);
         System.out.println(9 / 2);
         System.out.println(10 * (2 + 3) - 3);
+
+        System.out.println("\n----------");
+        System.out.println("STRINGS");
+        String txt = "Hello";
+        System.out.println(txt.length());
+        String txtLen = String.valueOf(txt.length());
+        System.out.println("Length of " + txt + " is " + String.valueOf(txt.length()));
+        System.out.println("Length of " + txt + " is " + txtLen + " (2)");
     }
 }
 
