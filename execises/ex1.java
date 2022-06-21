@@ -5,6 +5,7 @@ public class ex1 {
         /* this is a multi-line comment */
 
         // variables and data types
+        System.out.println("\nVARIABLES AND DATA TYPES");
         char nameChar = 'D';
         String fullName = "Daphne";
         int birthDay = 25;
@@ -21,6 +22,12 @@ public class ex1 {
         System.out.println("Start ...");
 
         // operators 
+        System.out.println("\nOPERATORS");
+        int x = 9;
+        System.out.println(++x);
+        int y = 20;
+        y += 5;
+        System.out.println(y);
         System.out.println(9 + 2);
         System.out.println(9 - 2);
         System.out.println(9 * 2);
