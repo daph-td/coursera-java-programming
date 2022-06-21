@@ -6,7 +6,11 @@ public class ex1 {
         char nameChar = 'D';
         String fullName = "Daphne";
         int birthDay = 25;
+        double birthDayDouble = (double) birthDay;
+        System.out.println(birthDayDouble);
         double birthMonth = 1.0;
+        int birthMonthInt = (int) birthMonth;
+        System.out.println(birthMonthInt);
         boolean myBool = false;
         String message = fullName + " birthday is " + birthDay;
         System.out.println(message);
