@@ -10,14 +10,18 @@ public class helloWorld {
         System.out.print("Hello, World!!!");
         System.out.print(alo + alo2);
 
-        long c = 500;
+        // Primitive data types
+        byte
+        short
+        int myNum = 5;               // Integer (whole number)
+        long c = 500; // primitive
+        float myFloatNum = 5.99f;    // Floating point number
         double d = 3.2;
+        boolean myBool = true;       // Boolean
+        char myLetter = 'D';         // Character, is a 1 single character, packed in 'c' 
         System.out.print(alo + alo2);
 
-        int myNum = 5;               // Integer (whole number)
-        float myFloatNum = 5.99f;    // Floating point number
-        char myLetter = 'D';         // Character
-        boolean myBool = true;       // Boolean
-        String myText = "Hello";     // String
+        // Non-primitive data types
+        String myText = "Hello";     // String, is an array of char, packed in "string"
     }
 }
