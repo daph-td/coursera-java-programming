@@ -6,5 +6,5 @@ public class w3_01_output {
         
         // print statement
         System.out.println("Hello World"); 
-  }
+  } 
 }
