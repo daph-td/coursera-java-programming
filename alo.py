@@ -4,7 +4,7 @@ def hello():
 
 def foo(fu):
     fu()
-    return def new()
+    return def new() 
 
 foo(hello)
 
